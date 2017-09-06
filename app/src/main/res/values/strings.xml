@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="delete_all_entries">Delete all entries</string>
+    <string name="new_editor_activity_title">Add new product</string>
+    <string name="editor_activity_title">Edit existing product</string>
+    <string name="quantity0">Quantity cannot be lower than 0</string>
+    <string name="quantity_higher">Quantity cannot be higher</string>
+    <string name="product">Product</string>
+    <string name="price">Price</string>
+    <string name="supplier_email">Supplier email</string>
+    <string name="quantity">Quantity</string>
+    <string name="order_more">Order more</string>
+    <string name="current_price">Current price:</string>
+    <string name="product_name">Product name:</string>
+    <string name="quantity_main_activity">Quantity:</string>
+    <string name="sale">sale</string>
+    <string name="delete_product">Delete product</string>
+    <string name="order">Order</string>
+    <string name="order_message">Order message</string>
+    <string name="discard">discard changes</string>
+    <string name="keep_editing">keep editing</string>
+    <string name="unsaved_changes_msg">Discard your changes and quit editing?</string>
+    <string name="delete">delete</string>
+    <string name="error_deleting">Error with deleting product</string>
+    <string name="deleted">Product successfully deleted</string>
+    <string name="del_product_q">Do you want to delete product?</string>
+    <string name="cancel">cancel</string>
+    <string name="delete_confirm">delete</string>
+    <string name="saved_product">New product saved</string>
+    <string name="load_image_failed">Unable to load image</string>
+</resources>
